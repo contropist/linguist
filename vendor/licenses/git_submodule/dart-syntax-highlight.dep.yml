@@ -1,6 +1,6 @@
 ---
 name: dart-syntax-highlight
-version: bd5cbdfe533c455a7ff7875923c4a94a5b497382
+version: e8b053f9834cb44db0f49ac4a4567177bd943dbf
 type: git_submodule
 homepage: https://github.com/dart-lang/dart-syntax-highlight
 license: bsd-3-clause
